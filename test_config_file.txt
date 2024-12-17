@@ -1,0 +1,25 @@
+#### T-MATRIX INPUTS
+frequency = 94.5 # GHz
+ri_Re_part = 3.128 # refractive index Real part from table 1 in Lhermitte 1989
+ri_Im_part = 1.75 # refractive index Imag part
+k_square = 0.77 # the dielectric constant from table 1 in Lhermitte 1989
+phi_0 = 0 # phi_0 
+phi = 180 # phi
+theta_0 = 45
+theta = 135  # 180 - theta_0
+d_start = 0.01
+d_end = 8
+std = 0 # degrees, Canting of Drops
+
+#### RADAR INPUTS
+M = 256 # number_of_velocity_bins
+int_time = 1.2 # integration time
+SNR_V_dB = 45 # dB
+PRF_kHz = 9.15 # kHz
+
+#### GAMMA DISTRIBUTION INPUTS
+mu = 0 # μ of the gamma distribution
+D_0 = 1.8 # equivalent volume diameter in mm
+N_0 = 987        #[m^-4]
+sigma_v = 0.1 # m/s
+
