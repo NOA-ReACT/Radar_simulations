@@ -10,7 +10,7 @@ The spectral variables:
 are generated taking into account the noise and the turbulence of real measurements. 
 The **Documentation** and the **Theoretical Overview** are uploaded in pdf format and contain all the necessary information for the user. 
 
-More information and content about the right fir of the gamma drop size distribution and the second method of turbulence inclusion by using the covariance matrix, will be added after the publication of the paper *"Simulations of Spectral Polarimetric Variables measured in rain at W-band"* that was submitted to ACP on 14 Oct 2024.
+More information and content about the right fit of the Gamma drop size distribution and the second method of turbulence inclusion by using the covariance matrix, will be added after the publication of the paper *"Simulations of Spectral Polarimetric Variables measured in rain at W-band"* that was submitted to ACP on 14 Oct 2024.
 
 ## Licence
 
@@ -31,7 +31,7 @@ The license is available in the `COPYING` and `COPYING.LESSER files`.
 
 ## Acknowledgement
 
-We also acknowledge the support by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the  “3rd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers” (Project Acronym: REVEAL, Project Number: 07222). 
+This code was developed with the support by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the  “3rd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers” (Project Acronym: REVEAL, Project Number: 07222). 
 
 ## Contact
 
